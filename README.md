@@ -3,7 +3,7 @@ Code for [SpringBoot MicroServices Blog Series](https://sivalabs.in/2018/03/micr
 
 ## How to run?...
 
-### Build all modules:
+### Build all modules:..
 
 `spring-boot-microservices-series> ./mvnw clean package -DskipTests=true`
 
